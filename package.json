@@ -1,11 +1,17 @@
 {
-  "name": "s02",
+  "name": "s03",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fgilsc/aws1718.git",
+    "github":"https://github.com/fgilsc/aws1718"
+    
   },
   "author": "",
   "license": "ISC",
