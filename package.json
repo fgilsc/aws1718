@@ -1,7 +1,7 @@
 {
   "name": "s03",
   "version": "1.0.0",
-  "description": "",
+  "description": "AWS",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
