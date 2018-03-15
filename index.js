@@ -1,3 +1,5 @@
+'use strict';
+
 var port = process.env.PORT || 8080; //NO BORRAR
 var express = require("express");
 var bodyParser = require("body-parser");
